@@ -3,3 +3,4 @@
 /.vscode/
 *.log
 *.class
+dependency-reduced-pom.xml
