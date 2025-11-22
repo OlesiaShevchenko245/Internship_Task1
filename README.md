@@ -109,6 +109,8 @@ java -jar target/observations-statistics.jar data tags 8
 
 | Потоки | Час виконання | 
 |--------|---------------|
+| 1      | 23–24 ms      | 
+| 2      | 22–23 ms      | 
 | 4      | 22–24 ms      | 
 | 8      | 22–23 ms      | 
 
@@ -116,6 +118,8 @@ java -jar target/observations-statistics.jar data tags 8
 
 | Потоки | Час виконання |
 |--------|---------------|
+| 1      | 23 ms         | 
+| 2      | 22 ms         | 
 | 4      | 22 ms         |
 | 8      | 24 ms         |
 
@@ -123,6 +127,8 @@ java -jar target/observations-statistics.jar data tags 8
 
 | Потоки | Час виконання |
 |--------|---------------|
+| 1      | 22 ms         | 
+| 2      | 23 ms         | 
 | 4      | 24 ms         |
 | 8      | 22 ms         |
 
@@ -130,6 +136,8 @@ java -jar target/observations-statistics.jar data tags 8
 
 | Потоки | Час виконання |
 |--------|---------------|
+| 1      | 24 ms         | 
+| 2      | 22–23 ms      | 
 | 4      | 22 ms         |
 | 8      | 22 ms         |
 
