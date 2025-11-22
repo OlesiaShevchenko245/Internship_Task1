@@ -174,4 +174,4 @@ observations-statistics/
 
 ## Автор
 
-Проєкт виконала ОЛеся Шевченко в рамках **Full-Stack Internship**
+Проєкт виконала Олеся Шевченко в рамках **Full-Stack Internship** :)
