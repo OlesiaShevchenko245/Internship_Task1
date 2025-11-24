@@ -21,12 +21,12 @@ _Проєкт для багатопоточної обробки астроно�
 
 ### **Observation**
 Опис одного спостереження, отриманого з JSON-файлу. Містить поля:
-- `id` — ідентифікатор спостереження  
-- `author` — автор спостереження  
-- `location` — місце здійснення  
-- `timestamp` — дата та час  
-- `instrument` — інструмент  
-- `tags` — список тегів  
+- `id` - ідентифікатор спостереження  
+- `author` - автор спостереження  
+- `location` - місце здійснення  
+- `timestamp` - дата та час  
+- `instrument` - інструмент  
+- `tags` - список тегів  
 
 ### **StatisticsCalculator**
 Клас, який виконує паралельну агрегацію значень:
@@ -94,9 +94,9 @@ java -jar target/observations-statistics.jar data tags 8
 ```
 
 **Параметри:**
-- `<data-folder>` — шлях до директорії з JSON-файлами
-- `<field>` — поле для аналізу (tags, author, location, instrument, timestamp)
-- `<threads>` — кількість потоків для обробки
+- `<data-folder>` - шлях до директорії з JSON-файлами
+- `<field>` - поле для аналізу (tags, author, location, instrument, timestamp)
+- `<threads>` - кількість потоків для обробки
 
 ---
 
